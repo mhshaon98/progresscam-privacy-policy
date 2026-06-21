@@ -1,67 +1,67 @@
 # Privacy Policy for Progress Tracker
 
-**Effective Date:** June 2026
+**Last updated:** June 2026
 
-## Overview
-Progress Tracker is committed to protecting your privacy. This app is designed with privacy-first principles—your data belongs to you, not us.
+## The Short Version
 
-## Data Collection & Usage
+We built Progress Tracker to help you track your progress without worrying about your data. Your information stays on your device and in your personal iCloud account. We don't sell data, show ads, or lock you in. Simple as that.
 
-### Data We Collect
+## What We Collect (and Why)
 
-1. **Progress Entries & Tracker Data**
-   - Your custom trackers (names, units, goals)
-   - Your logged data points and metrics
-   - Photos you attach to entries
-   - All stored securely on your device
+**Your progress data**
+- The trackers you create and all the entries you log
+- Photos you attach to your progress
+- All stored securely right on your iPhone or iPad
 
-2. **iCloud Sync (CloudKit)**
-   - Data is automatically synced to your private iCloud account for backup and cross-device access
-   - Synced data is encrypted end-to-end using your iCloud encryption
-   - You control this via iOS Settings → [Your Name] → iCloud → ProgressTracker
+**Your iCloud backup**
+- Your data automatically backs up to your personal iCloud account for safekeeping
+- This is encrypted by Apple, so only you can access it
+- You control this in Settings → [Your Name] → iCloud → ProgressTracker
 
-3. **Chat Messages (Optional)**
-   - If you use the chat feature, messages are stored in our Supabase backend
-   - Messages are linked to your iCloud account identifier
-   - You can delete your chat history at any time in the app
+**If you use chat (optional)**
+- Messages get stored on our backend
+- They're tied to your iCloud account
+- You can delete them anytime in the app
 
-4. **Usage Analytics**
-   - Launch count and install date (stored locally)
-   - XP and game progress (stored locally)
-   - Pro purchase status (managed via Apple StoreKit)
+**Stats we track locally**
+- How many times you open the app
+- Your XP and level progress
+- Whether you have Pro (handled through Apple)
+- All stored on your device, not our servers
 
-### Data We Do NOT Collect
-- Your name, email, or contact information (unless you explicitly provide it for support)
-- Location data
-- Device identifiers or advertising data
-- Browsing or app usage history
-- Biometric data (Face ID is processed locally on your device only)
+## What We Don't Collect
 
-## Data Storage & Security
+- Your name, email, or phone number (unless you email us for support)
+- Your location
+- Device IDs or tracking pixels
+- Your browsing history
+- Biometric data (Face ID stays on your device)
 
-- **Local Storage:** Your trackers and entries are stored on your device using Apple's SwiftData framework with encrypted at-rest storage.
-- **iCloud Sync:** Data is encrypted and transmitted via CloudKit directly to your iCloud account. We never see the contents.
-- **Chat Data:** Messages stored in Supabase are encrypted in transit (HTTPS) and at rest in our database. Only you and our backend can decrypt them using your account.
+## How We Keep Your Data Safe
+
+**On your device:** Your trackers live in a secure, encrypted database on your phone.
+
+**In iCloud:** Data syncs through CloudKit directly to your iCloud. We never see it.
+
+**In chat:** Messages are encrypted in transit and stored securely. Only you and our server can decode them.
 
 ## Your Rights
 
-You have the right to:
-- **Access** your data—export or review all your progress entries in the app
-- **Delete** your data—remove individual entries, trackers, or wipe your entire account
+You can:
+- Export or view all your data in the app anytime
+- Delete individual entries, whole trackers, or everything
+- Turn off iCloud sync whenever you want
 
-## Third-Party Services
+## Who Else Is Involved
 
-Progress Tracker uses:
-- **Apple CloudKit** — For iCloud sync
-- **Supabase** — For optional chat messaging
-- **Apple StoreKit** — For in-app purchases
+We use a few services to make the app work:
+- **Apple** — For iCloud syncing and purchases
+- **Supabase** — For the chat feature (optional)
 
-## Contact Us
+## Questions?
 
-If you have questions about this privacy policy or your data:
-- Email: mhasan@technic.com
-- Support: https://mhasan.technic.com/support
+Reach out anytime via the developer chat feature on the app.
 
-## Changes to This Policy
+## Updates to This Policy
 
-We may update this privacy policy occasionally. We'll notify you of any changes by updating the "Effective Date" above.
+We'll update this if things change. The date at the top shows when we last updated it.
