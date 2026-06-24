@@ -1,10 +1,10 @@
-# Privacy Policy for Progress Tracker
+# Privacy Policy for Progress Cam
 
 **Last updated:** June 2026
 
 ## The Short Version
 
-We built Progress Tracker to help you track your progress without worrying about your data. Your information stays on your device and in your personal iCloud account. We don't sell data, show ads, or lock you in. Simple as that.
+We built Progress Cam to help you track your progress without worrying about your data. Your information stays on your device and in your personal iCloud account. We don't sell data, show ads, or lock you in. Simple as that.
 
 ## What We Collect (and Why)
 
